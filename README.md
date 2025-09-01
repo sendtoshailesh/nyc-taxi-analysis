@@ -109,8 +109,7 @@ This project was completed as part of the IITB-Upgrad Data Science program, demo
 ## 📞 Contact
 
 **Author**: Shailesh Mishra  
-**Email**: [your-email@domain.com]  
-**LinkedIn**: [your-linkedin-profile]
+**LinkedIn**: https://www.linkedin.com/in/shaileshmishra1/
 
 ---
 
